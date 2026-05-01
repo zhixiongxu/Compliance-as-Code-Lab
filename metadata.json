@@ -1,0 +1,6 @@
+{
+  "name": "Compliance as Code Lab",
+  "description": "An interactive, step-by-step tutorial platform for implementing Compliance as Code using OPA, Rego, and automated scanning tools.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
